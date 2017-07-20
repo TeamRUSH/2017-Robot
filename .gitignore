@@ -1,0 +1,14 @@
+/bin/
+/build/
+/dist/
+/.classpath
+/sysProps.xml
+/BSD_License_for_WPILib_code.txt
+/Copy.classpath
+/bin/
+/target/
+.gradle
+.settings
+.project
+.idea
+*.DS_Store
